@@ -1,0 +1,43 @@
+product_id,product_name,category,price,cost,stock_quantity,supplier_name,supplier_country,supplier_contact,is_active
+P001,Wireless Bluetooth Headphones,Electronics,79.99,45,150,Gr8 Electronics,US,gr8_electronics@email.org,TRUE
+P002,Organic Cotton T-Shirt,Clothing,24.99,12.5,200,Clothes 'R' Yours,UK,clothes.sales@email.com,TRUE
+P003,Stainless Steel Water Bottle,Home & Garden,19.99,8.75,300,HomeFlow Supplies,Canada,sales@homeflow.ca,TRUE
+P004,Smartphone Case,Electronics,15.99,6.25,400,Gr8 Electronics,US,gr8_electronics@email.org,TRUE
+P005,Running Shoes,Clothing,89.99,55,80,Athletic Gear Pro,Germany,orders@athleticgearpro.de,TRUE
+P006,Coffee Mug Set,Home & Garden,29.99,15,120,HomeFlow Supplies,Canada,sales@homeflow.ca,TRUE
+P007,Laptop Stand,Electronics,45.99,22.5,75,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+P008,Yoga Mat,Sports & Outdoors,39.99,18,90,FitLife Equipment,Netherlands,info@fitlife.nl,TRUE
+P009,Desk Lamp,Home & Garden,34.99,17.25,110,HomeFlow Supplies,Canada,sales@homeflow.ca,TRUE
+P010,Wireless Mouse,Electronics,25.99,12.75,180,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+P011,Kitchen Knife Set,Home & Garden,69.99,35,60,CulinaryMax Inc,France,support@culinarymax.fr,TRUE
+P012,Fitness Tracker,Electronics,129.99,75,45,Gr8 Electronics,US,gr8_electronics@email.org,TRUE
+P013,Hoodie,Clothing,49.99,28,95,Clothes 'R' Yours,UK,clothes.sales@email.com,TRUE
+P014,Portable Charger,Electronics,32.99,16.5,160,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+P015,Ceramic Dinnerware Set,Home & Garden,89.99,48,40,HomeFlow Supplies,Canada,sales@homeflow.ca,TRUE
+P016,Bluetooth Speaker,Electronics,59.99,32,85,Gr8 Electronics,US,gr8_electronics@email.org,TRUE
+P017,Jeans,Clothing,54.99,30,70,Clothes 'R' Yours,UK,clothes.sales@email.com,TRUE
+P018,Garden Tools Set,Home & Garden,79.99,42,35,GreenThumb Direct,Italy,orders@greenthumb.it,TRUE
+P019,Tablet Case,Electronics,22.99,11.5,140,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+P020,Backpack,Clothing,44.99,25,100,Athletic Gear Pro,Germany,orders@athleticgearpro.de,TRUE
+P021,Air Purifier,Home & Garden,149.99,85,25,CleanAir Technologies,Japan,sales@cleanair.jp,TRUE
+P022,Gaming Keyboard,Electronics,79.99,45,65,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+P023,Sneakers,Clothing,69.99,38,120,Athletic Gear Pro,Germany,orders@athleticgearpro.de,TRUE
+P024,Desk Organizer,Home & Garden,18.99,9.5,200,HomeFlow Supplies,Canada,sales@homeflow.ca,TRUE
+P025,Wireless Earbuds,Electronics,99.99,58,90,Gr8 Electronics,US,gr8_electronics@email.org,TRUE
+P026,Polo Shirt,Clothing,34.99,18.5,130,Clothes 'R' Yours,UK,clothes.sales@email.com,TRUE
+P027,Smart Watch,Electronics,199.99,125,30,WristTech Innovations,South Korea,info@wristtech.kr,TRUE
+P028,Camping Tent,Sports & Outdoors,159.99,95,20,FitLife Equipment,Netherlands,info@fitlife.nl,TRUE
+P029,Kitchen Scale,Home & Garden,24.99,13.75,180,CulinaryMax Inc,France,support@culinarymax.fr,TRUE
+P030,Phone Charger,Electronics,12.99,5.25,250,TechHub Solutions,Australia,contact@techhub.com.au,TRUE
+,Mystery Box,Electronics,9.99,2.5,500,Gadget Wholesale Co,China,wholesale@gadgetco.cn,TRUE
+P032,Vintage Typewriter,Electronics,299.99,150,-5,RetroTech Collectibles,UK,vintage@retrotech.co.uk,FALSE
+P033,"Salt, Pepper & Spice Rack",Home & Garden,39.99,22.5,75,CulinaryMax Inc,France,support@culinarymax.fr,TRUE
+P034,Professional Hair Dryer,Beauty & Personal Care,89.99,48,60,BeautyPro Supplies,Sweden,orders@beautypro.se,TRUE
+P035,Cat Food (Salmon Flavor),Pet Supplies,18.99,9.75,200,PetCare Direct,US,info@petcaredirect.com,TRUE
+P036,Dog Leash & Collar Set,Pet Supplies,24.99,12,150,PetCare Direct,US,info@petcaredirect.com,TRUE
+P037,Organic Face Moisturizer,Beauty & Personal Care,34.99,18.25,80,BeautyPro Supplies,Sweden,orders@beautypro.se,TRUE
+P038,"Men's Shampoo, Conditioner Set",Beauty & Personal Care,19.99,10.5,120,BeautyPro Supplies,Sweden,orders@beautypro.se,TRUE
+P039,Bird Cage (Large),Pet Supplies,129.99,75,25,Exotic Pet Solutions,Brazil,sales@exoticpet.com.br,TRUE
+P040,Electric Toothbrush,Beauty & Personal Care,59.99,32.5,90,BeautyPro Supplies,Sweden,orders@beautypro.se,TRUE
+P041,Premium Cat Litter,Pet Supplies,22.99,11.25,180,PetCare Direct,US,info@petcaredirect.com,TRUE
+P042,"Johnson, Smith & Co. Toolkit",Tools & Hardware,79.99,45,40,ProTools Industrial,Mexico,contact@protools.mx,TRUE

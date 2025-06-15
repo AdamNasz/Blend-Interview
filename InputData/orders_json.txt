@@ -1,0 +1,2481 @@
+[
+  {
+    "order_id": "ORD-2024-001",
+    "customer_id": 1,
+    "order_date": "2024-01-15",
+    "status": "completed",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-002",
+    "customer_id": 2,
+    "order_date": "2024-01-18",
+    "status": "shipped",
+    "total_amount": 44.98,
+    "shipping_address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90210"
+    },
+    "items": [
+      {"product_id": "P002", "quantity": 1, "unit_sale_price": 24.99},
+      {"product_id": "P003", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-003",
+    "customer_id": 3,
+    "order_date": "2024-01-20",
+    "status": "processing",
+    "total_amount": 135.97,
+    "shipping_address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P008", "quantity": 1, "unit_sale_price": 39.99},
+      {"product_id": "P004", "quantity": 1, "unit_sale_price": 15.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-004",
+    "customer_id": 25,
+    "order_date": "2024-01-22",
+    "status": "completed",
+    "total_amount": 129.99,
+    "shipping_address": {
+      "street": "321 Elm St",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77001"
+    },
+    "items": [
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-005",
+    "customer_id": 5,
+    "order_date": "2024-01-25",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "654 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001"
+    },
+    "items": [
+      {"product_id": "P021", "quantity": 1, "unit_sale_price": 149.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-006",
+    "customer_id": 6,
+    "order_date": "2024-02-01",
+    "status": "completed",
+    "total_amount": 184.97,
+    "shipping_address": {
+      "street": "987 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19101"
+    },
+    "items": [
+      {"product_id": "P013", "quantity": 1, "unit_sale_price": 49.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-007",
+    "customer_id": 7,
+    "order_date": "2024-02-05",
+    "status": "completed",
+    "total_amount": 32.99,
+    "shipping_address": {
+      "street": "246 Birch Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78201"
+    },
+    "items": [
+      {"product_id": "P014", "quantity": 1, "unit_sale_price": 32.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-008",
+    "customer_id": 8,
+    "order_date": "2024-02-08",
+    "status": "shipped",
+    "total_amount": 109.98,
+    "shipping_address": {
+      "street": "135 Willow St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip_code": "92101"
+    },
+    "items": [
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99},
+      {"product_id": "P023", "quantity": 1, "unit_sale_price": 69.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-009",
+    "customer_id": 9,
+    "order_date": "2024-02-12",
+    "status": "processing",
+    "total_amount": 299.97,
+    "shipping_address": {
+      "street": "802 Spruce Ct",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75201"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-010",
+    "customer_id": 10,
+    "order_date": "2024-02-15",
+    "status": "completed",
+    "total_amount": 179.98,
+    "shipping_address": {
+      "street": "579 Poplar Rd",
+      "city": "San Jose",
+      "state": "CA",
+      "zip_code": "95101"
+    },
+    "items": [
+      {"product_id": "P028", "quantity": 1, "unit_sale_price": 159.99},
+      {"product_id": "P003", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-011",
+    "customer_id": 11,
+    "order_date": "2024-02-18",
+    "status": "completed",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "468 Ash Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "73301"
+    },
+    "items": [
+      {"product_id": "P022", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-012",
+    "customer_id": 12,
+    "order_date": "2024-02-22",
+    "status": "shipped",
+    "total_amount": 25.98,
+    "shipping_address": {
+      "street": "791 Cherry St",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip_code": "32201"
+    },
+    "items": [
+      {"product_id": "P024", "quantity": 2, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-013",
+    "customer_id": 13,
+    "order_date": "2024-02-25",
+    "status": "processing",
+    "total_amount": 129.98,
+    "shipping_address": {
+      "street": "357 Hickory Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76101"
+    },
+    "items": [
+      {"product_id": "P011", "quantity": 1, "unit_sale_price": 69.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-014",
+    "customer_id": 14,
+    "order_date": "2024-03-01",
+    "status": "completed",
+    "total_amount": 74.97,
+    "shipping_address": {
+      "street": "159 Walnut Dr",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43201"
+    },
+    "items": [
+      {"product_id": "P026", "quantity": 3, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-015",
+    "customer_id": 15,
+    "order_date": "2024-03-05",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "753 Sycamore Ln",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip_code": "28201"
+    },
+    "items": [
+      {"product_id": "P030", "quantity": 5, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-016",
+    "customer_id": 16,
+    "order_date": "2024-03-08",
+    "status": "completed",
+    "total_amount": 44.98,
+    "shipping_address": {
+      "street": "951 Redwood St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94101"
+    },
+    "items": [
+      {"product_id": "P029", "quantity": 1, "unit_sale_price": 24.99},
+      {"product_id": "P003", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-017",
+    "customer_id": 18,
+    "order_date": "2024-03-12",
+    "status": "processing",
+    "total_amount": 89.99,
+    "shipping_address": {
+      "street": "486 Dogwood Ct",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": "98101"
+    },
+    "items": [
+      {"product_id": "P015", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-018",
+    "customer_id": 19,
+    "order_date": "2024-03-15",
+    "status": "completed",
+    "total_amount": 124.97,
+    "shipping_address": {
+      "street": "264 Magnolia Rd",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": "80201"
+    },
+    "items": [
+      {"product_id": "P007", "quantity": 1, "unit_sale_price": 45.99},
+      {"product_id": "P018", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-019",
+    "customer_id": 20,
+    "order_date": "2024-03-18",
+    "status": "shipped",
+    "total_amount": 48.98,
+    "shipping_address": {
+      "street": "837 Beech Ave",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": "02101"
+    },
+    "items": [
+      {"product_id": "P019", "quantity": 1, "unit_sale_price": 22.99},
+      {"product_id": "P010", "quantity": 1, "unit_sale_price": 25.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-020",
+    "customer_id": 21,
+    "order_date": "2024-03-22",
+    "status": "completed",
+    "total_amount": 64.98,
+    "shipping_address": {
+      "street": "612 Fir St",
+      "city": "Detroit",
+      "state": "MI",
+      "zip_code": "48201"
+    },
+    "items": [
+      {"product_id": "P009", "quantity": 1, "unit_sale_price": 34.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-021",
+    "customer_id": 31,
+    "order_date": "2024-04-02",
+    "status": "completed",
+    "total_amount": 129.96,
+    "shipping_address": {
+      "street": "15 Rue de la Paix",
+      "city": "Paris",
+      "postal_code": "75001",
+      "country": "France"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 69.99},
+      {"product_id": "P037", "quantity": 1, "unit_sale_price": 34.99},
+      {"product_id": "P030", "quantity": 2, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-022",
+    "customer_id": 32,
+    "order_date": "2024-04-05",
+    "status": "shipped",
+    "total_amount": 79.99,
+    "shipping_address": {
+      "street": "Unter den Linden 10",
+      "city": "Berlin",
+      "postal_code": "10117",
+      "country": "Germany"
+    },
+    "items": [
+      {"product_id": "P042", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-023",
+    "customer_id": 33,
+    "order_date": "2024-04-08",
+    "status": "processing",
+    "total_amount": 104.97,
+    "shipping_address": {
+      "street": "Calle Gran Vía 28",
+      "city": "Madrid",
+      "postal_code": "28013",
+      "country": "Spain"
+    },
+    "items": [
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99},
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-024",
+    "customer_id": 34,
+    "order_date": "2024-04-12",
+    "status": "completed",
+    "total_amount": 83.97,
+    "shipping_address": {
+      "street": "MG Road 123",
+      "city": "Mumbai",
+      "postal_code": "400001",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "items": [
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99},
+      {"product_id": "P041", "quantity": 1, "unit_sale_price": 22.99},
+      {"product_id": "P004", "quantity": 1, "unit_sale_price": 15.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-025",
+    "customer_id": 35,
+    "order_date": "2024-04-15",
+    "status": "shipped",
+    "total_amount": 289.97,
+    "shipping_address": {
+      "street": "1-1-1 Shibuya",
+      "city": "Tokyo",
+      "postal_code": "150-0002",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-026",
+    "customer_id": 36,
+    "order_date": "2024-04-18",
+    "status": "completed",
+    "total_amount": 194.97,
+    "shipping_address": {
+      "street": "221B Baker Street",
+      "city": "London",
+      "postal_code": "NW1 6XE",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P037", "quantity": 1, "unit_sale_price": 34.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-027",
+    "customer_id": 37,
+    "order_date": "2024-04-22",
+    "status": "processing",
+    "total_amount": 149.97,
+    "shipping_address": {
+      "street": "Via del Corso 100",
+      "city": "Rome",
+      "postal_code": "00186",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-028",
+    "customer_id": 38,
+    "order_date": "2024-04-25",
+    "status": "completed",
+    "total_amount": 67.97,
+    "shipping_address": {
+      "street": "Rua Augusta 1500",
+      "city": "São Paulo",
+      "postal_code": "01310-100",
+      "state": "SP",
+      "country": "Brazil"
+    },
+    "items": [
+      {"product_id": "P035", "quantity": 2, "unit_sale_price": 18.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-029",
+    "customer_id": 39,
+    "order_date": "2024-04-28",
+    "status": "shipped",
+    "total_amount": 164.97,
+    "shipping_address": {
+      "street": "Nanjing Road 888",
+      "city": "Shanghai",
+      "postal_code": "200001",
+      "country": "China"
+    },
+    "items": [
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99},
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-030",
+    "customer_id": 40,
+    "order_date": "2024-05-02",
+    "status": "processing",
+    "total_amount": 124.97,
+    "shipping_address": {
+      "street": "Tahrir Square 15",
+      "city": "Cairo",
+      "postal_code": "11511",
+      "country": "Egypt"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P037", "quantity": 1, "unit_sale_price": 34.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-031",
+    "customer_id": 41,
+    "order_date": "2024-05-05",
+    "status": "completed",
+    "total_amount": 139.98,
+    "shipping_address": {
+      "street": "Red Square 1",
+      "city": "Moscow",
+      "postal_code": "109012",
+      "country": "Russia"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-032",
+    "customer_id": 42,
+    "order_date": "2024-05-08",
+    "status": "shipped",
+    "total_amount": 229.97,
+    "shipping_address": {
+      "street": "Dotonbori 2-1-1",
+      "city": "Osaka",
+      "postal_code": "542-0071",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-033",
+    "customer_id": 43,
+    "order_date": "2024-05-12",
+    "status": "processing",
+    "total_amount": 94.97,
+    "shipping_address": {
+      "street": "Avenida Corrientes 850",
+      "city": "Buenos Aires",
+      "postal_code": "C1043AAQ",
+      "country": "Argentina"
+    },
+    "items": [
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-034",
+    "customer_id": 44,
+    "order_date": "2024-05-15",
+    "status": "completed",
+    "total_amount": 42.98,
+    "shipping_address": {
+      "street": "Khreshchatyk Street 10",
+      "city": "Kiev",
+      "postal_code": "01001",
+      "country": "Ukraine"
+    },
+    "items": [
+      {"product_id": "P041", "quantity": 1, "unit_sale_price": 22.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-035",
+    "customer_id": 45,
+    "order_date": "2024-05-18",
+    "status": "shipped",
+    "total_amount": 154.97,
+    "shipping_address": {
+      "street": "Connaught Place 5",
+      "city": "New Delhi",
+      "postal_code": "110001",
+      "state": "Delhi",
+      "country": "India"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P030", "quantity": 2, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-036",
+    "customer_id": 46,
+    "order_date": "2024-05-22",
+    "status": "completed",
+    "total_amount": 119.97,
+    "shipping_address": {
+      "street": "Strøget 15",
+      "city": "Copenhagen",
+      "postal_code": "1160",
+      "country": "Denmark"
+    },
+    "items": [
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99},
+      {"product_id": "P042", "quantity": 1, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-037",
+    "customer_id": 47,
+    "order_date": "2024-05-25",
+    "status": "processing",
+    "total_amount": 212.97,
+    "shipping_address": {
+      "street": "King Fahd Road 100",
+      "city": "Riyadh",
+      "postal_code": "11564",
+      "country": "Saudi Arabia"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P037", "quantity": 2, "unit_sale_price": 34.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-038",
+    "customer_id": 48,
+    "order_date": "2024-05-28",
+    "status": "completed",
+    "total_amount": 64.98,
+    "shipping_address": {
+      "street": "Via Montenapoleone 8",
+      "city": "Milan",
+      "postal_code": "20121",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P007", "quantity": 1, "unit_sale_price": 45.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-039",
+    "customer_id": 49,
+    "order_date": "2024-06-02",
+    "status": "shipped",
+    "total_amount": 89.98,
+    "shipping_address": {
+      "street": "123 Queen Street West",
+      "city": "Toronto",
+      "province": "Ontario",
+      "postal_code": "M5H 2M9",
+      "country": "Canada"
+    },
+    "items": [
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99},
+      {"product_id": "P007", "quantity": 1, "unit_sale_price": 45.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-040",
+    "customer_id": 50,
+    "order_date": "2024-06-05",
+    "status": "processing",
+    "total_amount": 99.99,
+    "shipping_address": {
+      "street": "Graben 21",
+      "city": "Vienna",
+      "postal_code": "1010",
+      "country": "Austria"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-041",
+    "customer_id": 1,
+    "order_date": "2024-11-28",
+    "status": "completed",
+    "total_amount": 9.99,
+    "shipping_address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "items": [
+      {"product_id": "", "quantity": 1, "unit_sale_price": 9.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-042",
+    "customer_id": 25,
+    "order_date": "2024-12-15",
+    "status": "processing",
+    "total_amount": 599.98,
+    "shipping_address": {
+      "street": "890 Rose Ave",
+      "city": "Portland",
+      "state": "OR",
+      "zip_code": "97201"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 2, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-043",
+    "customer_id": 22,
+    "order_date": "2024-06-10",
+    "status": "completed",
+    "total_amount": 153.97,
+    "shipping_address": {
+      "street": "1600 Pennsylvania Ave",
+      "city": "Washington",
+      "state": "DC",
+      "zip_code": "20500"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-044",
+    "customer_id": 23,
+    "order_date": "2024-06-15",
+    "status": "shipped",
+    "total_amount": 109.98,
+    "shipping_address": {
+      "street": "Music Row 101",
+      "city": "Nashville",
+      "state": "TN",
+      "zip_code": "37203"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 2, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-045",
+    "customer_id": 24,
+    "order_date": "2024-06-20",
+    "status": "completed",
+    "total_amount": 87.98,
+    "shipping_address": {
+      "street": "The Strip 3570",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip_code": "89109"
+    },
+    "items": [
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99},
+      {"product_id": "P030", "quantity": 1, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-046",
+    "customer_id": 26,
+    "order_date": "2024-06-25",
+    "status": "shipped",
+    "total_amount": 64.98,
+    "shipping_address": {
+      "street": "NW 23rd St 450",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip_code": "73103"
+    },
+    "items": [
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-047",
+    "customer_id": null,
+    "order_date": "2024-07-02",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "Main St 789",
+      "city": "Louisville",
+      "state": "KY",
+      "zip_code": "40202"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-048",
+    "customer_id": 28,
+    "order_date": "2024-07-05",
+    "status": "completed",
+    "total_amount": 139.97,
+    "shipping_address": {
+      "street": "Inner Harbor 301",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip_code": "21202"
+    },
+    "items": [
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-049",
+    "customer_id": 29,
+    "order_date": "2024-07-08",
+    "status": "processing",
+    "total_amount": 94.98,
+    "shipping_address": {
+      "street": "Water St 1245",
+      "city": "Milwaukee", 
+      "state": "WI",
+      "zip_code": "53202"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P030", "quantity": 1, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-050",
+    "customer_id": 30,
+    "order_date": "2024-07-12",
+    "status": "completed",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "Central Ave 4567",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip_code": "87102"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 2, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-051",
+    "customer_id": 1,
+    "order_date": "2024-07-15",
+    "status": "shipped",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY", 
+      "zip_code": "10001"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P030", "quantity": 2, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-052",
+    "customer_id": 50,
+    "order_date": "2024-07-18",
+    "status": "completed",
+    "total_amount": 87.97,
+    "shipping_address": {
+      "street": "Champs-Élysées 25", 
+      "city": "Paris",
+      "postal_code": "75008",
+      "country": "France"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P041", "quantity": 1, "unit_sale_price": 22.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-053",
+    "customer_id": 32,
+    "order_date": "2024-07-22",
+    "status": "processing",
+    "total_amount": 109.98,
+    "shipping_address": {
+      "street": "Potsdamer Platz 1",
+      "city": "Berlin",
+      "postal_code": "10785",
+      "country": "Germany"
+    },
+    "items": [
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 50.99},
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-054",
+    "customer_id": 33,
+    "order_date": "2024-07-25",
+    "status": "completed",
+    "total_amount": 154.98,
+    "shipping_address": {
+      "street": "Plaza Mayor 5",
+      "city": "Madrid",
+      "postal_code": "28012",
+      "country": "Spain"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-055",
+    "customer_id": 34,
+    "order_date": "2024-07-28",
+    "status": "shipped", 
+    "total_amount": 133.97,
+    "shipping_address": {
+      "street": "Linking Road 456",
+      "city": "Mumbai",
+      "postal_code": "400050",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "items": [
+      {"product_id": "P042", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P037", "quantity": 1, "unit_sale_price": 34.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-056",
+    "customer_id": 35,
+    "order_date": "2024-08-01",
+    "status": "completed",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "Ginza 4-1-1",
+      "city": "Tokyo",
+      "postal_code": "104-0061",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-057",
+    "customer_id": 36,
+    "order_date": "2024-08-05",
+    "status": "processing",
+    "total_amount": 89.98,
+    "shipping_address": {
+      "street": "Oxford Street 200",
+      "city": "London",
+      "postal_code": "W1C 1JN",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-058",
+    "customer_id": 37,
+    "order_date": "2024-08-08",
+    "status": "completed",
+    "total_amount": 118.97,
+    "shipping_address": {
+      "street": "Via del Tritone 61",
+      "city": "Rome",
+      "postal_code": "00187", 
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-059",
+    "customer_id": 38,
+    "order_date": "2024-08-12",
+    "status": "shipped",
+    "total_amount": 48.97,
+    "shipping_address": {
+      "street": "Rua Oscar Freire 819",
+      "city": "São Paulo", 
+      "postal_code": "01426-001",
+      "state": "SP",
+      "country": "Brazil"
+    },
+    "items": [
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-060",
+    "customer_id": 39,
+    "order_date": "2024-08-15",
+    "status": "completed",
+    "total_amount": 284.98,
+    "shipping_address": {
+      "street": "Huaihai Road 1515",
+      "city": "Shanghai",
+      "postal_code": "200031",
+      "country": "China"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 95.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-061",
+    "customer_id": 40,
+    "order_date": "2024-08-18",
+    "status": "processing",
+    "total_amount": 79.98,
+    "shipping_address": {
+      "street": "Khan el-Khalili 22",
+      "city": "Cairo",
+      "postal_code": "11511",
+      "country": "Egypt"
+    },
+    "items": [
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-062",
+    "customer_id": 41,
+    "order_date": "2024-08-22",
+    "status": "completed",
+    "total_amount": 169.98,
+    "shipping_address": {
+      "street": "Tverskaya Street 15",
+      "city": "Moscow",
+      "postal_code": "125009",
+      "country": "Russia"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-063",
+    "customer_id": 42,
+    "order_date": "2024-08-25",
+    "status": "shipped",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "Shinsaibashi 1-2-3",
+      "city": "Osaka",
+      "postal_code": "542-0085",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-064",
+    "customer_id": 43,
+    "order_date": "2024-08-28",
+    "status": "completed",
+    "total_amount": 103.97,
+    "shipping_address": {
+      "street": "Avenida 9 de Julio 1250",
+      "city": "Buenos Aires",
+      "postal_code": "C1043AAP",
+      "country": "Argentina"
+    },
+    "items": [
+      {"product_id": "P042", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-065",
+    "customer_id": 2,
+    "order_date": "2024-09-02",
+    "status": "completed",
+    "total_amount": 199.98,
+    "shipping_address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90210"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-066",
+    "customer_id": 3,
+    "order_date": "2024-09-05",
+    "status": "shipped",
+    "total_amount": 89.99,
+    "shipping_address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-067",
+    "customer_id": 4,
+    "order_date": "2024-09-08",
+    "status": "processing", 
+    "total_amount": 154.97,
+    "shipping_address": {
+      "street": "West Gray St 2020",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77019"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-068",
+    "customer_id": 5,
+    "order_date": "2024-09-12",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "654 Maple Dr", 
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-069",
+    "customer_id": 44,
+    "order_date": "2024-09-15",
+    "status": "completed",
+    "total_amount": 64.97,
+    "shipping_address": {
+      "street": "Independence Square 3",
+      "city": "Kiev",
+      "postal_code": "01001",
+      "country": "Ukraine"
+    },
+    "items": [
+      {"product_id": "P041", "quantity": 1, "unit_sale_price": 22.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99},
+      {"product_id": "P041", "quantity": 1, "unit_sale_price": 22.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-070",
+    "customer_id": 45,
+    "order_date": "2024-09-18",
+    "status": "shipped",
+    "total_amount": 184.97,
+    "shipping_address": {
+      "street": "India Gate Circle 12",
+      "city": "New Delhi",
+      "postal_code": "110003",
+      "state": "Delhi",
+      "country": "India"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P037", "quantity": 1, "unit_sale_price": 34.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-071",
+    "customer_id": 46,
+    "order_date": "2024-09-22",
+    "status": "completed",
+    "total_amount": 149.97,
+    "shipping_address": {
+      "street": "Nyhavn 17",
+      "city": "Copenhagen",
+      "postal_code": "1051",
+      "country": "Denmark"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-072",
+    "customer_id": 47,
+    "order_date": "2024-09-25",
+    "status": "processing",
+    "total_amount": 274.96,
+    "shipping_address": {
+      "street": "Olaya Street 250",
+      "city": "Riyadh",
+      "postal_code": "11433",
+      "country": "Saudi Arabia"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P037", "quantity": 2, "unit_sale_price": 34.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-073",
+    "customer_id": 48,
+    "order_date": "2024-09-28",
+    "status": "completed",
+    "total_amount": 104.98,
+    "shipping_address": {
+      "street": "Corso Buenos Aires 15",
+      "city": "Milan",
+      "postal_code": "20124",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P042", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-074",
+    "customer_id": 49,
+    "order_date": "2024-10-02",
+    "status": "shipped",
+    "total_amount": 244.97,
+    "shipping_address": {
+      "street": "CN Tower Way 290",
+      "city": "Toronto", 
+      "province": "Ontario",
+      "postal_code": "M5V 3A8",
+      "country": "Canada"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-075",
+    "customer_id": 50,
+    "order_date": "2024-10-05",
+    "status": "completed",
+    "total_amount": 249.97,
+    "shipping_address": {
+      "street": "Stephansplatz 1",
+      "city": "Vienna",
+      "postal_code": "1010",
+      "country": "Austria"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P013", "quantity": 1, "unit_sale_price": 49.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-076",
+    "customer_id": 6,
+    "order_date": "2024-10-08",
+    "status": "completed",
+    "total_amount": 319.96,
+    "shipping_address": {
+      "street": "987 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-077",
+    "customer_id": 7,
+    "order_date": "2024-10-12",
+    "status": "processing",
+    "total_amount": 169.98,
+    "shipping_address": {
+      "street": "246 Birch Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78201"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P033", "quantity": 1, "unit_sale_price": 39.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-078",
+    "customer_id": 8,
+    "order_date": "2024-10-15",
+    "status": "shipped",
+    "total_amount": 174.97,
+    "shipping_address": {
+      "street": "135 Willow St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip_code": "92101"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-079",
+    "customer_id": 9,
+    "order_date": "2024-10-18",
+    "status": "completed",
+    "total_amount": 429.96,
+    "shipping_address": {
+      "street": "802 Spruce Ct",
+      "city": "Dallas",
+      "state": "TX", 
+      "zip_code": "75201"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-080",
+    "customer_id": 10,
+    "order_date": "2024-10-22",
+    "status": "completed",
+    "total_amount": 384.96,
+    "shipping_address": {
+      "street": "579 Poplar Rd",
+      "city": "San Jose",
+      "state": "CA",
+      "zip_code": "95101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-081",
+    "customer_id": 11,
+    "order_date": "2024-10-25",
+    "status": "shipped",
+    "total_amount": 284.97,
+    "shipping_address": {
+      "street": "468 Ash Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "73301"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-082",
+    "customer_id": 12,
+    "order_date": "2024-10-28",
+    "status": "completed",
+    "total_amount": 79.98,
+    "shipping_address": {
+      "street": "791 Cherry St",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip_code": "32201"
+    },
+    "items": [
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-083",
+    "customer_id": 13,
+    "order_date": "2024-11-01",
+    "status": "processing",
+    "total_amount": 199.98,
+    "shipping_address": {
+      "street": "357 Hickory Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76101"
+    },
+    "items": [
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-084",
+    "customer_id": 14,
+    "order_date": "2024-11-05",
+    "status": "completed",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "159 Walnut Dr",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43201"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-085",
+    "customer_id": 15,
+    "order_date": "2024-11-08",
+    "status": "cancelled", 
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "753 Sycamore Ln",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip_code": "28201"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 1, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-086",
+    "customer_id": 16,
+    "order_date": "2024-11-12",
+    "status": "completed",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "951 Redwood St",
+      "city": "San Francisco",
+      "state": "CA", 
+      "zip_code": "94101"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 2, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-087",
+    "customer_id": 18,
+    "order_date": "2024-11-15",
+    "status": "processing",
+    "total_amount": 184.98,
+    "shipping_address": {
+      "street": "486 Dogwood Ct",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": "98101"
+    },
+    "items": [
+      {"product_id": "P015", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-088",
+    "customer_id": 19,
+    "order_date": "2024-11-18",
+    "status": "completed",
+    "total_amount": 134.98,
+    "shipping_address": {
+      "street": "Broadway 1425",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": "80202"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-089",
+    "customer_id": 20,
+    "order_date": "2024-11-22",
+    "status": "shipped",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "Beacon Hill 88",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": "02108"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-090",
+    "customer_id": null,
+    "order_date": "2024-11-25",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "Music Row 123",
+      "city": "Nashville",
+      "state": "TN",
+      "zip_code": "37203"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 1, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-091",
+    "customer_id": 31,
+    "order_date": "2024-11-28",
+    "status": "completed",
+    "total_amount": 89.98,
+    "shipping_address": {
+      "street": "Champs-Élysées 150",
+      "city": "Paris",
+      "postal_code": "75008",
+      "country": "France"
+    },
+    "items": [
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-092",
+    "customer_id": 22,
+    "order_date": "2024-12-01",
+    "status": "processing",
+    "total_amount": 284.97,
+    "shipping_address": {
+      "street": "Pennsylvania Ave 1600",
+      "city": "Washington",
+      "state": "DC",
+      "zip_code": "20500"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-093",
+    "customer_id": 23,
+    "order_date": "2024-12-05",
+    "status": "completed",
+    "total_amount": 149.98,
+    "shipping_address": {
+      "street": "Music City Blvd 567",
+      "city": "Nashville",
+      "state": "TN",
+      "zip_code": "37214"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-094",
+    "customer_id": 25,
+    "order_date": "2024-12-08",
+    "status": "shipped",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "Pearl District 234",
+      "city": "Portland",
+      "state": "OR",
+      "zip_code": "97209"
+    },
+    "items": [
+      {"product_id": "P001", "quantity": 2, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-095",
+    "customer_id": 32,
+    "order_date": "2024-12-12",
+    "status": "completed",
+    "total_amount": 184.97,
+    "shipping_address": {
+      "street": "Alexanderplatz 5",
+      "city": "Berlin",
+      "postal_code": "10178",
+      "country": "Germany"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-096",
+    "customer_id": 54,
+    "order_date": "2024-12-15",
+    "status": "processing",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "La Rambla 89",
+      "city": "Barcelona",
+      "postal_code": "08002",
+      "country": "Spain"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-097",
+    "customer_id": 1,
+    "order_date": "2024-12-18",
+    "status": "completed",
+    "total_amount": 119.98,
+    "shipping_address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "items": [
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-098",
+    "customer_id": 48,
+    "order_date": "2024-12-22",
+    "status": "shipped",
+    "total_amount": 274.97,
+    "shipping_address": {
+      "street": "Colosseum Square 12",
+      "city": "Rome",
+      "postal_code": "00184",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P037", "quantity": 2, "unit_sale_price": 34.99},
+      {"product_id": "P035", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-099",
+    "customer_id": 2,
+    "order_date": "2024-12-25",
+    "status": "completed",
+    "total_amount": 359.96,
+    "shipping_address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90210"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P001", "quantity": 2, "unit_sale_price": 79.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2024-100",
+    "customer_id": 38,
+    "order_date": "2024-12-28",
+    "status": "processing",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "Copacabana Beach 456",
+      "city": "Rio de Janeiro",
+      "postal_code": "22070-010",
+      "state": "RJ",
+      "country": "Brazil"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-001",
+    "customer_id": 3,
+    "order_date": "2025-01-02",
+    "status": "completed",
+    "total_amount": 174.98,
+    "shipping_address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-002",
+    "customer_id": 42,
+    "order_date": "2025-01-05",
+    "status": "shipped",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "Shibuya Crossing 1-1-1",
+      "city": "Tokyo",
+      "postal_code": "150-0002",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-003",
+    "customer_id": 4,
+    "order_date": "2025-01-08",
+    "status": "completed",
+    "total_amount": 284.97,
+    "shipping_address": {
+      "street": "West Gray St 2020",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": "77019"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-004",
+    "customer_id": 49,
+    "order_date": "2025-01-12",
+    "status": "processing",
+    "total_amount": 149.98,
+    "shipping_address": {
+      "street": "Oxford Circus 345",
+      "city": "London",
+      "postal_code": "W1B 2HG",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P038", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-005",
+    "customer_id": null,
+    "order_date": "2025-01-15",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "654 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 2, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-006",
+    "customer_id": 59,
+    "order_date": "2025-01-18",
+    "status": "completed",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "Red Square 1",
+      "city": "Moscow",
+      "postal_code": "109012",
+      "country": "Russia"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-007",
+    "customer_id": 6,
+    "order_date": "2025-01-22",
+    "status": "shipped",
+    "total_amount": 384.96,
+    "shipping_address": {
+      "street": "987 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": "19101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-008",
+    "customer_id": 40,
+    "order_date": "2025-01-25",
+    "status": "completed",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "Bondi Beach Rd 789",
+      "city": "Sydney",
+      "postal_code": "2026",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-009",
+    "customer_id": 7,
+    "order_date": "2025-01-28",
+    "status": "processing",
+    "total_amount": 244.97,
+    "shipping_address": {
+      "street": "246 Birch Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": "78201"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-010",
+    "customer_id": 8,
+    "order_date": "2025-02-01",
+    "status": "completed",
+    "total_amount": 429.96,
+    "shipping_address": {
+      "street": "135 Willow St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip_code": "92101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-011",
+    "customer_id": 41,
+    "order_date": "2025-02-05",
+    "status": "shipped",
+    "total_amount": 184.97,
+    "shipping_address": {
+      "street": "Canal Grande 456",
+      "city": "Venice",
+      "postal_code": "30124",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-012",
+    "customer_id": 9,
+    "order_date": "2025-02-08",
+    "status": "completed",
+    "total_amount": 574.95,
+    "shipping_address": {
+      "street": "802 Spruce Ct",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75201"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P039", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-013",
+    "customer_id": 42,
+    "order_date": "2025-02-12",
+    "status": "processing",
+    "total_amount": 224.97,
+    "shipping_address": {
+      "street": "Montmartre Hill 12",
+      "city": "Paris",
+      "postal_code": "75018",
+      "country": "France"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-014",
+    "customer_id": 10,
+    "order_date": "2025-02-15",
+    "status": "completed",
+    "total_amount": 529.95,
+    "shipping_address": {
+      "street": "579 Poplar Rd",
+      "city": "San Jose",
+      "state": "CA",
+      "zip_code": "95101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-015",
+    "customer_id": 32,
+    "order_date": "2025-02-18",
+    "status": "shipped",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "Brandenburg Gate 1",
+      "city": "Berlin",
+      "postal_code": "10117",
+      "country": "Germany"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-016",
+    "customer_id": 11,
+    "order_date": "2025-02-22",
+    "status": "completed",
+    "total_amount": 244.97,
+    "shipping_address": {
+      "street": "468 Ash Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "73301"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 44.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-017",
+    "customer_id": 14,
+    "order_date": "2025-02-25",
+    "status": "processing",
+    "total_amount": 284.97,
+    "shipping_address": {
+      "street": "Sagrada Familia 101",
+      "city": "Barcelona",
+      "postal_code": "08013",
+      "country": "Spain"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P036", "quantity": 1, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-018",
+    "customer_id": 12,
+    "order_date": "2025-02-28",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "791 Cherry St",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip_code": "32201"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 1, "unit_sale_price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-019",
+    "customer_id": 5,
+    "order_date": "2025-03-05",
+    "status": "completed",
+    "total_amount": 489.95,
+    "shipping_address": {
+      "street": "Tower Bridge Rd 88",
+      "city": "London",
+      "postal_code": "SE1 2UP",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-020",
+    "customer_id": 13,
+    "order_date": "2025-03-08",
+    "status": "shipped",
+    "total_amount": 429.96,
+    "shipping_address": {
+      "street": "357 Hickory Ave",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": "76101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P006", "quantity": 1, "unit_sale_price": 29.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-021",
+    "customer_id": 21,
+    "order_date": "2025-03-10",
+    "status": "processing",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "Via Roma 45",
+      "city": "Rome",
+      "postal_code": "00186",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-022",
+    "customer_id": 14,
+    "order_date": "2025-03-12",
+    "status": "completed",
+    "total_amount": 174.97,
+    "shipping_address": {
+      "street": "246 Maple Dr",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99},
+      {"product_id": "P023", "quantity": 1, "unit_sale_price": 69.99},
+      {"product_id": "P030", "quantity": 1, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-023",
+    "customer_id": 67,
+    "order_date": "2025-03-15",
+    "status": "shipped",
+    "total_amount": 284.98,
+    "shipping_address": {
+      "street": "Shibuya Crossing 2-1",
+      "city": "Tokyo",
+      "postal_code": "150-0002",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P021", "quantity": 1, "unit_sale_price": 149.99},
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-024",
+    "customer_id": 15,
+    "order_date": "2025-03-15",
+    "status": "processing",
+    "total_amount": 114.98,
+    "shipping_address": {
+      "street": "135 Pine St",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip_code": "28202"
+    },
+    "items": [
+      {"product_id": "P013", "quantity": 1, "unit_sale_price": 49.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-021",
+    "customer_id": 37,
+    "order_date": "2025-03-10",
+    "status": "processing",
+    "total_amount": 159.98,
+    "shipping_address": {
+      "street": "Via Roma 45",
+      "city": "Rome",
+      "postal_code": "00186",
+      "country": "Italy"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-022",
+    "customer_id": 14,
+    "order_date": "2025-03-12",
+    "status": "completed",
+    "total_amount": 148.97,
+    "shipping_address": {
+      "street": "246 Maple Dr",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": "43215"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P023", "quantity": 1, "unit_sale_price": 59.99},
+      {"product_id": "P030", "quantity": 1, "unit_sale_price": 6.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-023",
+    "customer_id": 37,
+    "order_date": "2025-03-15",
+    "status": "shipped",
+    "total_amount": 284.98,
+    "shipping_address": {
+      "street": "Shibuya Crossing 2-1",
+      "city": "Tokyo",
+      "postal_code": "150-0002",
+      "country": "Japan"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P021", "quantity": 1, "unit_sale_price": 149.99},
+      {"product_id": "P034", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-024",
+    "customer_id": 15,
+    "order_date": "2025-03-15",
+    "status": "processing",
+    "total_amount": 114.98,
+    "shipping_address": {
+      "street": "135 Pine St",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip_code": "28202"
+    },
+    "items": [
+      {"product_id": "P013", "quantity": 1, "unit_sale_price": 49.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99},
+      {"product_id": "P024", "quantity": 1, "unit_sale_price": 18.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-025",
+    "customer_id": 49,
+    "order_date": "2025-03-18",
+    "status": "completed",
+    "total_amount": 329.97,
+    "shipping_address": {
+      "street": "CN Tower Plaza 290",
+      "city": "Toronto",
+      "province": "ON",
+      "postal_code": "M5V 3A8",
+      "country": "Canada"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-026",
+    "customer_id": 16,
+    "order_date": "2025-03-20",
+    "status": "shipped",
+    "total_amount": 319.97,
+    "shipping_address": {
+      "street": "680 Market St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94102"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P001", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P008", "quantity": 1, "unit_sale_price": 39.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-027",
+    "customer_id": null,
+    "order_date": "2025-03-22",
+    "status": "cancelled",
+    "total_amount": 0,
+    "shipping_address": {
+      "street": "Opera House Steps 12",
+      "city": "Sydney",
+      "postal_code": "2000",
+      "country": "Australia"
+    },
+    "items": [
+      {"product_id": "P028", "quantity": 2, "unit_sale_price": 159.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-028",
+    "customer_id": 17,
+    "order_date": "2025-03-25",
+    "status": "processing",
+    "total_amount": 234.96,
+    "shipping_address": {
+      "street": "789 Washington Ave",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip_code": "46204"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P026", "quantity": 1, "unit_sale_price": 34.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-029",
+    "customer_id": 24,
+    "order_date": "2025-03-28",
+    "status": "completed",
+    "total_amount": 449.96,
+    "shipping_address": {
+      "street": "Champs-Élysées 158",
+      "city": "Paris",
+      "postal_code": "75008",
+      "country": "France"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 149.99},
+      {"product_id": "P002", "quantity": 2, "unit_sale_price": 24.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-030",
+    "customer_id": 18,
+    "order_date": "2025-03-30",
+    "status": "shipped",
+    "total_amount": 162.97,
+    "shipping_address": {
+      "street": "Pike Place Market 85",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": "98101"
+    },
+    "items": [
+      {"product_id": "P016", "quantity": 1, "unit_sale_price": 50.99},
+      {"product_id": "P022", "quantity": 1, "unit_sale_price": 79.99},
+      {"product_id": "P019", "quantity": 1, "unit_sale_price": 20.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-031",
+    "customer_id": 1,
+    "order_date": "2025-04-02",
+    "status": "processing",
+    "total_amount": 569.96,
+    "shipping_address": {
+      "street": "Alexanderplatz 15",
+      "city": "Berlin",
+      "postal_code": "10178",
+      "country": "Germany"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P021", "quantity": 1, "unit_sale_price": 149.99},
+      {"product_id": "P003", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-032",
+    "customer_id": 19,
+    "order_date": "2025-04-05",
+    "status": "completed",
+    "total_amount": 89.98,
+    "shipping_address": {
+      "street": "1600 Broadway",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": "80202"
+    },
+    "items": [
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-033",
+    "customer_id": 20,
+    "order_date": "2025-04-08",
+    "status": "shipped",
+    "total_amount": 254.96,
+    "shipping_address": {
+      "street": "Freedom Trail 45",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": "02108"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P004", "quantity": 2, "unit_sale_price": 15.99},
+      {"product_id": "P010", "quantity": 1, "unit_sale_price": 25.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-034",
+    "customer_id": 12,
+    "order_date": "2025-04-10",
+    "status": "processing",
+    "total_amount": 439.96,
+    "shipping_address": {
+      "street": "Red Square 1",
+      "city": "Moscow",
+      "postal_code": "109012",
+      "country": "Russia"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99},
+      {"product_id": "P014", "quantity": 1, "unit_sale_price": 32.99},
+      {"product_id": "P030", "quantity": 1, "unit_sale_price": 12.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-035",
+    "customer_id": 21,
+    "order_date": "2025-04-12",
+    "status": "completed",
+    "total_amount": 279.97,
+    "shipping_address": {
+      "street": "Motor City Blvd 234",
+      "city": "Detroit",
+      "state": "MI",
+      "zip_code": "48226"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P020", "quantity": 1, "unit_sale_price": 40.00},
+      {"product_id": "P002", "quantity": 2, "unit_sale_price": 19.99}
+    ]
+  },
+  {
+    "order_id": "ORD2025036",
+    "customer_id": 30,
+    "order_date": "2025-04-15",
+    "status": "shipped",
+    "total_amount": 189.98,
+    "shipping_address": {
+      "street": "Copacabana Beach 567",
+      "city": "Rio de Janeiro",
+      "postal_code": "22070-011",
+      "country": "Brazil"
+    },
+    "items": [
+      {"product_id": "P025", "quantity": 1, "unit_sale_price": 99.99},
+      {"product_id": "P005", "quantity": 1, "unit_sale_price": 89.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-037",
+    "customer_id": 22,
+    "order_date": "2025-04-18",
+    "status": "processing",
+    "total_amount": 399.96,
+    "shipping_address": {
+      "street": "Capitol Hill 789",
+      "city": "Washington",
+      "state": "DC",
+      "zip_code": "20001"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 2, "unit_sale_price": 199.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-038",
+    "customer_id": 23,
+    "order_date": "2025-04-20",
+    "status": "cancelled",
+    "total_amount": 0.00,
+    "shipping_address": {
+      "street": "Music Row 456",
+      "city": "Nashville",
+      "state": "TN",
+      "zip_code": "37203"
+    },
+    "items": [
+      {"product_id": "P032", "quantity": 1, "unit_sale_price": 299.99},
+      {"product_id": "P028", "quantity": 1, "unit_sale_price": 159.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-039",
+    "customer_id": 39,
+    "order_date": "2025-04-22",
+    "status": "completed",
+    "total_amount": 284.97,
+    "shipping_address": {
+      "street": "Great Wall Section 88",
+      "city": "Beijing",
+      "postal_code": "100000",
+      "country": "China"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P012", "quantity": 1, "unit_sale_price": 129.99},
+      {"product_id": "P040", "quantity": 1, "unit_sale_price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2025-040",
+    "customer_id": 24,
+    "order_date": "2025-04-25",
+    "status": "shipped",
+    "total_amount": 274.96,
+    "shipping_address": {
+      "street": "Strip Boulevard 123",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip_code": "89101"
+    },
+    "items": [
+      {"product_id": "P027", "quantity": 1, "unit_sale_price": 199.99},
+      {"product_id": "P017", "quantity": 1, "unit_sale_price": 54.99},
+      {"product_id": "P003", "quantity": 1, "unit_sale_price": 19.99}
+    ]
+  }
+]
+
